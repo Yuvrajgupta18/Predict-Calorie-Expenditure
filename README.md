@@ -234,6 +234,6 @@ reports/Project_Report.pdf
 
 ## Author
 
-**Tanmay Jindal**
+**Yuvraj Gupta**
 
 Machine Learning • Deep Learning • Data Science
